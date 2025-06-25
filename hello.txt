@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello git 1234
+=======
+hello git 1235 jocdjos cd  
+>>>>>>> 8e55c4910dfee310a794760d67e69935346bb105
